@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+# I am Yordanos Adane
+Software engineering student at Bahirdar university.
+* How to reach me yordanosadanet@gmail.com
 <!--
 **Yordanos-Adane/Yordanos-Adane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
