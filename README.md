@@ -1,5 +1,4 @@
-## Hi there 👋
-# I am Yordanos Adane
+## Hi there 👋 I am Yordanos Adane
 Software engineering student at Bahirdar university.
 * How to reach me yordanosadanet@gmail.com
 <!--
